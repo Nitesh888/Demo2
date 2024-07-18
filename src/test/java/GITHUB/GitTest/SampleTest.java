@@ -12,6 +12,7 @@ public class SampleTest {
 	  System.out.println("see you");
 	  System.out.println("TATA");
 	  System.out.println("NAMASTE");
+	  System.out.println("vanakam");
 	}
 
 }
